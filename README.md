@@ -16,7 +16,7 @@ persistência em banco relacional.
 </b>
 </p>
 
-<h2 id="tech">💻 Tecnologias</h2>
+<h2 id="tech"> Tecnologias</h2>
 
 <p>As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:</p>
 
@@ -30,7 +30,7 @@ persistência em banco relacional.
 <li><strong>Maven</strong>: Gerenciador de dependências.</li>
 </ul>
 
-<h2 id="started">🚀 Como Executar</h2>
+<h2 id="started"> Como Executar</h2>
 
 <p>Siga as instruções abaixo para configurar e executar o projeto localmente.</p>
 
@@ -85,7 +85,7 @@ mvn spring-boot:run
 
 <p>A aplicação será iniciada na porta padrão <strong>8080</strong>.</p>
 
-<h2 id="routes">📍 Endpoints da API</h2>
+<h2 id="routes"> Endpoints da API</h2>
 
 <p>A API expõe os seguintes endpoints para gerenciamento de usuários:</p>
 
@@ -144,7 +144,7 @@ mvn spring-boot:run
 </code></pre>
 <p><i>Observação: O <code>id</code> e a <code>data_cadastro</code> são gerados automaticamente pelo sistema.</i></p>
 
-<h2 id="boas-praticas">💡 Boas Práticas e Recursos</h2>
+<h2 id="boas-praticas"> Boas Práticas e Recursos</h2>
 <ul>
 <li>Uso de UUID como chave primária, garantindo unicidade global e evitando problemas de concorrência.</li>
 <li>Validações integradas, como a garantia de que o campo email é único e os campos nome e idade são obrigatórios.</li>
@@ -152,12 +152,6 @@ mvn spring-boot:run
 <li>Utilização de DTOs (Data Transfer Objects) para a comunicação entre as camadas, evitando a exposição do modelo de domínio diretamente.</li>
 </ul>
 
-<h2 id="future">🎯 Melhorias Futuras</h2>
-<p>Esta é uma lista de possíveis melhorias e novas funcionalidades para o projeto:</p>
-<ul>
-<li>Implementar testes unitários e de integração.</li>
-<li>Adicionar paginação à listagem de usuários para melhorar a performance em grandes volumes de dados.</li>
-</ul>
 
 <h2 id="autor">👨‍💻 Autor</h2>
 <p>Desenvolvido por Lenin Sales<br>
