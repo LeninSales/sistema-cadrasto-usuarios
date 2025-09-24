@@ -7,7 +7,7 @@
 <a href="#future">Melhorias Futuras</a>
 </p>
 
-<p align="center">
+<p  align="center">
 <b>Este projeto é uma API REST desenvolvida em <strong>Java com Spring Boot</strong>,
 utilizando <strong>Spring Data JPA</strong> e <strong>Microsoft SQL Server</strong> como banco de
 dados.<br>
@@ -153,7 +153,7 @@ mvn spring-boot:run
 </ul>
 
 
-<h2 id="autor">👨‍💻 Autor</h2>
+<h2 id="autor">Autor</h2>
 <p>Desenvolvido por Lenin Sales<br>
 📧 Email: leninsalesoliveira@gmail.com<br>
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/leninsales" target="_blank">linkedin.com/in/leninsales</a></p>
