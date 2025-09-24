@@ -150,6 +150,7 @@ mvn spring-boot:run
 <li>Validações integradas, como a garantia de que o campo email é único e os campos nome e idade são obrigatórios.</li>
 <li>Seguindo o Padrão em Camadas (Controller, Service, Repository), que promove a separação de responsabilidades e facilita a manutenção do código.</li>
 <li>Utilização de DTOs (Data Transfer Objects) para a comunicação entre as camadas, evitando a exposição do modelo de domínio diretamente.</li>
+<li>Implementação de testes unitários com JUnit, garantindo a confiabilidade das funcionalidades principais e facilitando a evolução do sistema.</li>
 </ul>
 
 
